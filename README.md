@@ -10,6 +10,7 @@
 ![images](https://github.com/Acooll/nuxt-app/raw/master/screenShots/learn06.jpg)
 ![images](https://github.com/Acooll/nuxt-app/raw/master/screenShots/learn07.png)
 ![images](https://github.com/Acooll/nuxt-app/raw/master/screenShots/learn08.png)
+<img src="https://github.com/Acooll/nuxt-app/raw/master/screenShots/learn01.jpg" width="280px" height="500px">
 
 ## Build Setup
 
