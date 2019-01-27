@@ -1,6 +1,6 @@
 # learn-app
 
-> My ultimate Nuxt.js project
+> Node.js(8.x) + express(4.X) + vue(2.5) + + mongodb + （NUXT）SSR （web端实战商城）
 
 ## Build Setup
 
